@@ -1,0 +1,26 @@
+[
+    {
+      "question": "qus 1",
+      "choice1": "qus 1 = ans1",
+      "choice2": "qus 1 = ans2",
+      "choice3": "qus 1 = ans3",
+      "choice4": "qus 1 = ans4",
+      "answer": 2
+    },
+    {
+      "question": "qus 2",
+      "choice1": "qus 2 = ans1",
+      "choice2": "qus 2 = ans2",
+      "choice3": "qus 2 = ans3",
+      "choice4": "qus 2 = ans4",
+      "answer": 4
+    },
+    {
+      "question": "qus 3",
+      "choice1": "qus 3 = ans1",
+      "choice2": "qus 3 = ans2",
+      "choice3": "qus 3 = ans3",
+      "choice4": "qus 3 = ans4",
+      "answer": 1
+    }
+  ]
